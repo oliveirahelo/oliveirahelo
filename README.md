@@ -2,7 +2,7 @@
 
 **'cursando pyhton'**
 
-Me chamo Heloisa OLiveira, tenho 17 anos e moro em São Paulo. Cursando o ensino medio.Atualmente estou cursando programação  de pyhton . Sou apaixonada por tecnologia e música.
+Me chamo Heloisa OLiveira, tenho 17 anos e moro em São Paulo. Cursando o ensino medio.Atualmente estou cursando programação  de pyhton . Sou apaixonada por  música.
 
 <h1>🌐 Socials:</h1>
 <br>

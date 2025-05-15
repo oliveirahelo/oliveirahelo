@@ -29,5 +29,4 @@ Me chamo Heloisa OLiveira, tenho 17 anos e moro em São Paulo. Cursando o ensino
 <br/>
 <br/>
 
-### me siga no instagram:
-[instagram](https://www.instagram.com/__souzahelo).
+

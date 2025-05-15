@@ -25,8 +25,7 @@ Me chamo Heloisa OLiveira, tenho 17 anos e moro em São Paulo. Cursando o ensino
     title="Python"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
 
 <br/>
 <br/>

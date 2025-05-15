@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👩🏽‍💻 Heloisa Oliveira 
 
-<!--
-**oliveirahelo/oliveirahelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**'cursando pyhton'**
 
-Here are some ideas to get you started:
+Me chamo Heloisa OLiveira, tenho 17 anos e moro em São Paulo. Cursando o ensino medio.Atualmente estou cursando programação  de pyhton . Sou apaixonada por tecnologia e música.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1>🌐 Socials:</h1>
+<br>
+ <div align="center">
+    <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" width = "180" target="_blank"></a>
+    <a href="https://discord.gg/PXd5WrTh" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" width = "150" target="_blank"></a> 
+    <a href = "mailto:ricardolimaa65@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"  width = "132" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/ricardo-rodrigues-lima-977a5b1a3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" width = "132" target="_blank"></a> 
+  </div>
+<br>
+
+
+---
+
+### 🤖 Linguagens e Tecnologias
+
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+<br/>
+<br/>
+
+### me siga no instagram:
+[instagram](https://www.instagram.com/__souzahelo).
